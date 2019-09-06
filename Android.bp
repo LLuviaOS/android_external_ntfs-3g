@@ -25,7 +25,6 @@ cc_defaults {
         "-D_FILE_OFFSET_BITS=64",
         "-DHAVE_CONFIG_H",
     ],
-    tags: ["optional"],
 }
 
 cc_library {
